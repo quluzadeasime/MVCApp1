@@ -1,0 +1,573 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\mvcbilet1\\areas\\admin\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|solutionrelative:mvcbilet1\\areas\\admin\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7099FC-BA20-4187-BED4-7A963C94D524}|Business\\Business.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\business\\services\\concretes\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7099FC-BA20-4187-BED4-7A963C94D524}|Business\\Business.csproj|solutionrelative:business\\services\\concretes\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B827CA8-9929-4E03-B3BE-F8C56CE04B5B}|Core\\Core.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\core\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B827CA8-9929-4E03-B3BE-F8C56CE04B5B}|Core\\Core.csproj|solutionrelative:core\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\mvcbilet1\\areas\\admin\\views\\team\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|solutionrelative:mvcbilet1\\areas\\admin\\views\\team\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\mvcbilet1\\areas\\admin\\views\\team\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|solutionrelative:mvcbilet1\\areas\\admin\\views\\team\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7099FC-BA20-4187-BED4-7A963C94D524}|Business\\Business.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\business\\exceptions\\teamnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7099FC-BA20-4187-BED4-7A963C94D524}|Business\\Business.csproj|solutionrelative:business\\exceptions\\teamnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B827CA8-9929-4E03-B3BE-F8C56CE04B5B}|Core\\Core.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\core\\repositoryabstracts\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B827CA8-9929-4E03-B3BE-F8C56CE04B5B}|Core\\Core.csproj|solutionrelative:core\\repositoryabstracts\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B827CA8-9929-4E03-B3BE-F8C56CE04B5B}|Core\\Core.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B827CA8-9929-4E03-B3BE-F8C56CE04B5B}|Core\\Core.csproj|solutionrelative:core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\mvcbilet1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|solutionrelative:mvcbilet1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A498A0ED-24FD-48B6-93C6-71A307F4880E}|Data\\Data.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A498A0ED-24FD-48B6-93C6-71A307F4880E}|Data\\Data.csproj|solutionrelative:data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7099FC-BA20-4187-BED4-7A963C94D524}|Business\\Business.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\business\\exceptions\\filenotfountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7099FC-BA20-4187-BED4-7A963C94D524}|Business\\Business.csproj|solutionrelative:business\\exceptions\\filenotfountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7099FC-BA20-4187-BED4-7A963C94D524}|Business\\Business.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\business\\exceptions\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7099FC-BA20-4187-BED4-7A963C94D524}|Business\\Business.csproj|solutionrelative:business\\exceptions\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7099FC-BA20-4187-BED4-7A963C94D524}|Business\\Business.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\business\\exceptions\\contenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7099FC-BA20-4187-BED4-7A963C94D524}|Business\\Business.csproj|solutionrelative:business\\exceptions\\contenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\mvcbilet1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|solutionrelative:mvcbilet1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\mvcbilet1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|solutionrelative:mvcbilet1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\mvcbilet1\\dto\u0027s\\accountdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|solutionrelative:mvcbilet1\\dto\u0027s\\accountdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\mvcbilet1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|solutionrelative:mvcbilet1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\mvcbilet1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|solutionrelative:mvcbilet1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B827CA8-9929-4E03-B3BE-F8C56CE04B5B}|Core\\Core.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B827CA8-9929-4E03-B3BE-F8C56CE04B5B}|Core\\Core.csproj|solutionrelative:core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A498A0ED-24FD-48B6-93C6-71A307F4880E}|Data\\Data.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A498A0ED-24FD-48B6-93C6-71A307F4880E}|Data\\Data.csproj|solutionrelative:data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\mvcbilet1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|solutionrelative:mvcbilet1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A498A0ED-24FD-48B6-93C6-71A307F4880E}|Data\\Data.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\data\\repositoryconcretes\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A498A0ED-24FD-48B6-93C6-71A307F4880E}|Data\\Data.csproj|solutionrelative:data\\repositoryconcretes\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\mvcbilet1\\areas\\admin\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|solutionrelative:mvcbilet1\\areas\\admin\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\mvcbilet1\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|solutionrelative:mvcbilet1\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\mvcbilet1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|solutionrelative:mvcbilet1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7099FC-BA20-4187-BED4-7A963C94D524}|Business\\Business.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\business\\services\\abstracts\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7099FC-BA20-4187-BED4-7A963C94D524}|Business\\Business.csproj|solutionrelative:business\\services\\abstracts\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\mvcbilet1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|solutionrelative:mvcbilet1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\mvcbilet1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|solutionrelative:mvcbilet1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7099FC-BA20-4187-BED4-7A963C94D524}|Business\\Business.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\business\\exceptions\\teamnullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7099FC-BA20-4187-BED4-7A963C94D524}|Business\\Business.csproj|solutionrelative:business\\exceptions\\teamnullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B827CA8-9929-4E03-B3BE-F8C56CE04B5B}|Core\\Core.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B827CA8-9929-4E03-B3BE-F8C56CE04B5B}|Core\\Core.csproj|solutionrelative:core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\mvcbilet1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|solutionrelative:mvcbilet1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\mvcbilet1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3063396A-9EC0-4EAA-A9B7-7A7F1B8B326E}|MVCBilet1\\MVCBilet1.csproj|solutionrelative:mvcbilet1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A498A0ED-24FD-48B6-93C6-71A307F4880E}|Data\\Data.csproj|c:\\users\\asime\\desktop\\mvcbilet1\\mvcbilet1\\data\\migrations\\20240516024054_createusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A498A0ED-24FD-48B6-93C6-71A307F4880E}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240516024054_createusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Areas\\Admin\\Views\\Team\\Update.cshtml",
+              "RelativeDocumentMoniker": "MVCBilet1\\Areas\\Admin\\Views\\Team\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Areas\\Admin\\Views\\Team\\Update.cshtml",
+              "RelativeToolTip": "MVCBilet1\\Areas\\Admin\\Views\\Team\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T04:45:07.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "MVCBilet1\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "MVCBilet1\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T01:49:36.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeamNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Business\\Exceptions\\TeamNotFoundException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\TeamNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Business\\Exceptions\\TeamNotFoundException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\TeamNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T04:34:04.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeamService.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Business\\Services\\Concretes\\TeamService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Concretes\\TeamService.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Business\\Services\\Concretes\\TeamService.cs",
+              "RelativeToolTip": "Business\\Services\\Concretes\\TeamService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAFoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:39:57.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MVCBilet1\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MVCBilet1\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T02:42:27.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Areas\\Admin\\Views\\Team\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCBilet1\\Areas\\Admin\\Views\\Team\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Areas\\Admin\\Views\\Team\\Create.cshtml",
+              "RelativeToolTip": "MVCBilet1\\Areas\\Admin\\Views\\Team\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T02:23:27.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Core\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Core\\Models\\Team.cs",
+              "RelativeToolTip": "Core\\Models\\Team.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T10:43:39.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAC4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:26:09.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:21:06.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITeamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Core\\RepositoryAbstracts\\ITeamRepository.cs",
+              "RelativeDocumentMoniker": "Core\\RepositoryAbstracts\\ITeamRepository.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Core\\RepositoryAbstracts\\ITeamRepository.cs",
+              "RelativeToolTip": "Core\\RepositoryAbstracts\\ITeamRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:24:31.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileNotFountException.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Business\\Exceptions\\FileNotFountException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\FileNotFountException.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Business\\Exceptions\\FileNotFountException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\FileNotFountException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T03:52:30.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileSizeException.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Business\\Exceptions\\FileSizeException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\FileSizeException.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Business\\Exceptions\\FileSizeException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\FileSizeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:24:06.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContentTypeException.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Business\\Exceptions\\ContentTypeException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\ContentTypeException.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Business\\Exceptions\\ContentTypeException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\ContentTypeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:17:48.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MVCBilet1\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "MVCBilet1\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAFEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T02:42:55.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\DTO\u0027s\\AccountDTO\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "MVCBilet1\\DTO\u0027s\\AccountDTO\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\DTO\u0027s\\AccountDTO\\RegisterDto.cs",
+              "RelativeToolTip": "MVCBilet1\\DTO\u0027s\\AccountDTO\\RegisterDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T02:53:38.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCBilet1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCBilet1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T10:41:06.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Program.cs",
+              "RelativeDocumentMoniker": "MVCBilet1\\Program.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Program.cs",
+              "RelativeToolTip": "MVCBilet1\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T10:57:51.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240516024054_CreateUserTable.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Data\\Migrations\\20240516024054_CreateUserTable.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240516024054_CreateUserTable.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Data\\Migrations\\20240516024054_CreateUserTable.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240516024054_CreateUserTable.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T02:40:54.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCBilet1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCBilet1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:06:35.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Core\\Models\\User.cs",
+              "RelativeToolTip": "Core\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T02:30:56.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVCBilet1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVCBilet1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T01:50:51.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T10:46:18.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TeamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Data\\RepositoryConcretes\\TeamRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcretes\\TeamRepository.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Data\\RepositoryConcretes\\TeamRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcretes\\TeamRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:34:12.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVCBilet1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVCBilet1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T01:50:36.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCBilet1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCBilet1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAKkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T01:51:02.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCBilet1\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "RelativeToolTip": "MVCBilet1\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T01:53:36.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ITeamService.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Business\\Services\\Abstracts\\ITeamService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Abstracts\\ITeamService.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Business\\Services\\Abstracts\\ITeamService.cs",
+              "RelativeToolTip": "Business\\Services\\Abstracts\\ITeamService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:37:23.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVCBilet1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVCBilet1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T11:07:04.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "MVCBilet1\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "MVCBilet1\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-16T01:48:25.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TeamNullException.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Business\\Exceptions\\TeamNullException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\TeamNullException.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Business\\Exceptions\\TeamNullException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\TeamNullException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:51:22.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T10:44:05.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCBilet1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\appsettings.json",
+              "RelativeToolTip": "MVCBilet1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T10:52:39.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCBilet1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\MVCBilet1\\MVCBilet1\\MVCBilet1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCBilet1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T10:38:47.824Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
